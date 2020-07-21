@@ -8,7 +8,7 @@
 <br>
 <a href="https://ion-stackblitz.stackblitz.io">Live Demo</a>
 <br>
-<a href="http://www.youtube.com/c/HabibAlMawali">Youtube Channel</a>
+<a href="http://www.youtube.com/c/HabibAlMawali?sub_confirmation=1">Youtube Channel</a>
 
 ## Youtube Tutorial
 Soon.. 

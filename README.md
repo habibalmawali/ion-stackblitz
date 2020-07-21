@@ -1,18 +1,14 @@
 # ion-stackblitz.
 # Starter Project for ionic 5 and Angular in StackBlitz ⚡️
 
-## Developed Using:
-<p align="left">
-<a href="https://ionicframework.com/">Ionic Framework V5</a>
-</p>
-<p align="left">
-<a href="https://stackblitz.io/">StackBlitz ⚡️</a>
-</p>
+![ion-stackblitz](https://user-images.githubusercontent.com/31030616/88096495-c8610580-cba7-11ea-881c-74ae235ba029.png)
 
 ## Start From Here
 <a href="https://stackblitz.com/edit/ion-stackblitz">Start Play with Codes</a>
 <br>
 <a href="https://ion-stackblitz.stackblitz.io">Live Demo</a>
+<br>
+<a href="http://www.youtube.com/c/HabibAlMawali">Youtube Channel</a>
 
 ## Youtube Tutorial
 Soon.. 
